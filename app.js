@@ -1,4 +1,4 @@
-
+/* Ejercicio usando File System*/
 const fs = require('fs');
 
 const userName = 'David'
